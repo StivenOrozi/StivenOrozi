@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @StivenOrozi
+- 👋 Hi, I’m @Stiven Orozi
 - 👀 I’m interested in Game Development and AI
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on various projects
